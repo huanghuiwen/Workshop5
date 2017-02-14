@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Workshop5</string>
+
+    <string-array name="description_array">
+        <item>facebook is a rad site for old people</item>
+        <item>This is a great site to search for google</item>
+        <item>A great</item>
+    </string-array>
+</resources>
